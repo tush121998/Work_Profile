@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9MvBN6HiUwqvVqo953Qr1alMX/4UHx+lt9oy1x+piww=",
+  "Source": "Shop.Services.AuthApi",
+  "BasePath": "_content/Shop.Services.AuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

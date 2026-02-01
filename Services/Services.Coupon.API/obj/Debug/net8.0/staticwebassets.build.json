@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cHGI5D8kwsyPw9yCcGiYGL4X2C3vwmAm0DZ6THwmzQU=",
+  "Source": "Shop.Services.CouponAPI",
+  "BasePath": "_content/Shop.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
